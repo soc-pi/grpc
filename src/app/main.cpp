@@ -1,8 +1,2 @@
-#include <iostream>
-#include "grpc.h"
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    grpc_function();
-    return 0;
-}
+// This file is now empty. Client and server have their own main functions.
+int main() { return 0; }
